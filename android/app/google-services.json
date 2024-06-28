@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995877349439",
+    "project_id": "wowfit-app",
+    "storage_bucket": "wowfit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995877349439:android:18633f6899c5c13b81708a",
+        "android_client_info": {
+          "package_name": "com.wowfit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995877349439-4fsj77hl8nf3tdgk1pbf5es9ra5mk3p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowfit.app",
+            "certificate_hash": "0912b26c16579fec2bd399725b94589be8a49559"
+          }
+        },
+        {
+          "client_id": "995877349439-uhnbqibhd0echa91evs5qf6s07mftlis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowfit.app",
+            "certificate_hash": "753ab8634d775674ef9b100fdff955c5add7a939"
+          }
+        },
+        {
+          "client_id": "995877349439-3ciffq1ears497mlpq0cll0i2n61liuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB36Lo3yxk_5DbmhYXXWkRW1AwX0BkNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995877349439-3ciffq1ears497mlpq0cll0i2n61liuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
