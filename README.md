@@ -6,7 +6,9 @@
 
 **Wellness Plan** is a comprehensive app designed to help you track your wellness journey. Whether you want to keep a record of your exercise routines, monitor your progress, or access premium features through in-app purchases, Wellness Plan has you covered.
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.wowfit.app)
+<a href="https://play.google.com/store/apps/details?id=com.wowfit.app">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Download on Google Play" width="200"/>
+</a>
 
 ## Features
 
