@@ -1,6 +1,6 @@
 # Wellness Plan
 
-![Wellness Plan](https://your-image-link.com/banner.png)
+![Wellness Plan](https://github.com/muhammadusmantech/Wow-Fit/blob/main/assets/appIcon/wowlogo.png)
 
 ## Overview
 
