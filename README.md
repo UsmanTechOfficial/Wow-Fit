@@ -25,8 +25,11 @@
 
 ## Screenshots
 
-![Screenshot 1](https://your-image-link.com/screenshot1.png)
-![Screenshot 2](https://your-image-link.com/screenshot2.png)
+![Screenshot 1](https://github.com/muhammadusmantech/Wow-Fit/blob/main/assets/screenshot/Screenshot%202024-07-04%20004646.png)
+![Screenshot 2](https://github.com/muhammadusmantech/Wow-Fit/blob/main/assets/screenshot/Screenshot%202024-07-04%20004632.png)
+![Screenshot 2](https://github.com/muhammadusmantech/Wow-Fit/blob/main/assets/screenshot/Screenshot%202024-07-04%20004622.png)
+![Screenshot 2](https://github.com/muhammadusmantech/Wow-Fit/blob/main/assets/screenshot/Screenshot%202024-07-04%20005023.png)
+
 
 ## Installation
 
