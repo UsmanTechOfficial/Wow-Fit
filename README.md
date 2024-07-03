@@ -1,16 +1,59 @@
-# wowfit
+# Wellness Plan
 
-A new Flutter project.
+![Wellness Plan](https://your-image-link.com/banner.png)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+**Wellness Plan** is a comprehensive app designed to help you track your wellness journey. Whether you want to keep a record of your exercise routines, monitor your progress, or access premium features through in-app purchases, Wellness Plan has you covered.
 
-A few resources to get you started if this is your first Flutter project:
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.yourapp.wellnessplan)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Track Exercise:** Save your workout routines and monitor your progress over time.
+- **Statistics:** Keep track of various statistics to stay motivated and improve your wellness journey.
+- **In-App Purchases:** Unlock premium features to enhance your experience.
+
+## Frameworks and Technologies
+
+- **Frontend:** Flutter
+- **Backend:** Firebase
+
+## Screenshots
+
+![Screenshot 1](https://your-image-link.com/screenshot1.png)
+![Screenshot 2](https://your-image-link.com/screenshot2.png)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/wellness-plan.git
+    cd wellness-plan
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Usage
+
+Once the app is installed, you can:
+
+- **Log exercises**: Add details of your workouts and save them.
+- **View statistics**: Check your progress with various statistics and charts.
+- **Upgrade to premium**: Access additional features with in-app purchases.
+
+## Project Structure
+
