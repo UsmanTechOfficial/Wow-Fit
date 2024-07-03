@@ -18,8 +18,10 @@
 
 ## Frameworks and Technologies
 
-- **Frontend:** Flutter
+- **Framework:** Flutter
+- **Language:** Dart
 - **Backend:** Firebase
+- **Payment:** Stripe (Google pay, Apple pay)
 
 ## Screenshots
 
@@ -33,7 +35,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/wellness-plan.git
+    git clone https://github.com/muhammadusmantech/Wow-Fit
     cd wellness-plan
     ```
 
@@ -54,8 +56,18 @@ To run this project locally, follow these steps:
 Once the app is installed, you can:
 
 - **Log exercises**: Add details of your workouts and save them.
+- **Progress**: Save your progress. Include exercise and reps.
 - **View statistics**: Check your progress with various statistics and charts.
 - **Upgrade to premium**: Access additional features with in-app purchases.
 
 ## Project Structure
+
+- `lib/main.dart`: Entry point of the application.
+- `lib/screens/`: Contains the various screens of the app.
+- `lib/widgets/`: Contains reusable widgets.
+- `lib/models/`: Contains data models.
+
+---
+
+**Wellness Plan** © 2023. All rights reserved.
 
